@@ -1,2 +1,11 @@
-# Comparing-Swin-ResNet50-for-AMD-Detection
- This project addresses the need for an automated system that can accurately detect AMD from retinal fundus images and evaluates which deep learning architecture, CNN-based ResNet50 or Transformer-based Swin, performs better for this task.
+# A Comparative Study of Swin Transformer and ResNet50 for Automated Detection of Age-Related Macular Degeneration Using Fundus Images
+
+# Project Type
+  Research Paper
+
+# Team Details
+  Avireet Kaur (2210990202)
+
+# Current Status
+  Submitted
+ 
